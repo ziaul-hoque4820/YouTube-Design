@@ -20,11 +20,6 @@ The design is **responsive** and works across devices (desktop, tablet, and mobi
 
 ---
 
-## 🌐 Live Demo
-🔗 **[Live Project Link](https://book-shop-vzqq.vercel.app/)**
-
----
-
 ## 🚀 How to Run the Project Locally
 
 1️⃣ **Clone the repository**
